@@ -1,5 +1,7 @@
 # gsi-map
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A custom web component that displays a map using the Geospatial Information Authority of Japan (GSI) map tiles.
 
 ## Demo
